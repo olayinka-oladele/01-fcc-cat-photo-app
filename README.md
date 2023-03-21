@@ -1,15 +1,13 @@
 # FCC CAT PHOTO APP
 
->  Using HTML tags by building cat photo app. 
+> Using HTML tags by building cat photo app.
 
 !9[screenshot](./app_screenshot.png)
-
 
 ## Built With
 
 - HTML5 elements
-  - `h1`, `div`, `button`,
-  -`h2`, `ìnput`, `section`.
+  - `h1`, `div`, `button`, -`h2`, `ìnput`, `section`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
