@@ -2,7 +2,7 @@
 
 > Using HTML tags by building cat photo app.
 
-!9[screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
